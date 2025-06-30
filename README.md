@@ -1,31 +1,75 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate programmer from India, Delhi</h3>
+<!-- Animated, Dark-Themed, Stat-Rich Profile README for AryanERTash -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanertash&label=Profile%20views&color=0e75b6&style=flat" alt="aryanertash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanertash" alt="aryanertash" /></a> </p>
-
-- 🔭 I’m currently working on **AI systems**
-
-- 🌱 I’m currently learning **Statistics and Machine Learning**
-
-- 👯 I’m looking to collaborate on **AI and ML**
-
-- 📫 How to reach me **rahuljaikarkumar7042@gmail.com**
-
-- ⚡ Fun fact **The earth is round!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aryan.solenoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan.solenoid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryan_kumar7042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan_kumar7042" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF6F00&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Aryan+Kumar+%F0%9F%91%8B;Student+%7C+Freelancer+%7C+Math+Lover;Cloud+%7C+ML+%7C+Data+Science+Explorer;Let's+build+something+awesome+together+%F0%9F%92%A1" alt="Typing SVG">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanertash&show_icons=true&locale=en&layout=compact" alt="aryanertash" /></p>
+<h2 align="center" style="color:#FF6F00;">🌑 About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanertash&show_icons=true&locale=en" alt="aryanertash" /></p>
+<p align="center">
+  <b>Student & Freelancer</b><br>
+  🚀 Passionate about <b>Math</b> and <b>Programming</b><br>
+  💡 Exploring <b>Machine Learning</b>, <b>Data Science</b>, and <b>Cloud</b><br>
+  🧑‍💻 Polyglot: Python, JavaScript, Java, C++, C, HTML, CSS<br>
+  🌃 Always learning and open to collaboration!
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanertash&" alt="aryanertash" /></p>
+---
+
+<h2 align="center" style="color:#FF6F00;">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,html,css,cloud,git,linux&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Data%20Science-4B8BBE?style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="center" style="color:#FF6F00;">📈 GitHub Stats & Achievements</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanERTash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AryanERTash&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanERTash&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AryanERTash&theme=discord&margin-w=10&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanERTash&theme=tokyo-night&hide_border=true" height="180" />
+</p>
+
+---
+
+<h2 align="center" style="color:#FF6F00;">🌟 Fun Facts</h2>
+
+<ul>
+  <li>🧩 I love solving challenging math problems</li>
+  <li>💡 Always up for hackathons and coding competitions</li>
+  <li>🌍 Enjoy collaborating on open-source and community projects</li>
+</ul>
+
+---
+
+<h2 align="center" style="color:#FF6F00;">📲 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-kumar-942748358/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/aryan.solenoid" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6F00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
